@@ -30,6 +30,15 @@
 
   <hr>
 
+  <div align="center">
+  <h2>📊 My Stats 📈</h2>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Ashishrock9394&rank_icon=github&theme=dark" alt="Souvik's GitHub stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashishrock9394&layout=donut&theme=dark" alt="Top Languages" height="195px">
+<!--     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-R-e-X&theme=dark" alt="Souvik Hazra's GitHub Streak"> -->
+  </p>
+</div>
+
   <h2>📊 GitHub Stats</h2>
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Ashishrock9394&show_icons=true&theme=tokyonight&count_private=true" alt="Ashish's GitHub stats" />
