@@ -47,9 +47,7 @@
   <h2>🔗 Connect with Me</h2>
   <p>
     <a href="https://www.linkedin.com/in/ashishrock9394/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" height="30px"></a>
-    <a href="https://ashishrock9394.github.io/portfolio/">
-  <img src="https://img.shields.io/badge/-Portfolio-black?style=flat&logo=Google-Chrome&logoColor=white" height="30px">
-</a>
+    <a href="https://ashishrock9394.github.io/Portfolio/"><img src="https://img.shields.io/badge/-Portfolio-black?style=flat&logo=Google-Chrome&logoColor=white" height="30px"></a>
     <a href="https://github.com/Ashishrock9394"><img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white" height="30px"></a>
     <a href="mailto:ashishkumar9394@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" height="30px"></a>
   </p>
