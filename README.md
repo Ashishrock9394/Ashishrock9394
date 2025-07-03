@@ -33,22 +33,12 @@
   <div align="center">
   <h2>📊 My Stats 📈</h2>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Ashishrock9394&rank_icon=github&theme=dark" alt="Souvik's GitHub stats">
+<!--     <img src="https://github-readme-stats.vercel.app/api?username=Ashishrock9394&rank_icon=github&theme=dark" alt="Souvik's GitHub stats"> -->    
+    <img src="https://github-readme-stats.vercel.app/api?username=Ashishrock9394&show_icons=true&theme=tokyonight&count_private=true" alt="Ashish's GitHub stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashishrock9394&layout=donut&theme=dark" alt="Top Languages" height="195px">
-<!--     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-R-e-X&theme=dark" alt="Souvik Hazra's GitHub Streak"> -->
   </p>
 </div>
-
-  <h2>📊 GitHub Stats</h2>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Ashishrock9394&show_icons=true&theme=tokyonight&count_private=true" alt="Ashish's GitHub stats" />
-  </p>
-
-  <h2>🧠 Most Used Languages</h2>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashishrock9394&layout=compact&theme=tokyonight" alt="Top Languages" />
-  </p>
-
+ 
   <h2>🔥 GitHub Contribution Graph</h2>
   <p align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashishrock9394&theme=tokyo-night" alt="GitHub Contribution Graph" />
