@@ -12,7 +12,7 @@
 
   <hr>
   <h2>🛠️ Tech Stack</h2>
- <p>
+<p>
   <img src="https://img.shields.io/badge/-PHP-8892BF?style=flat&logo=php&logoColor=white" height="30px">
   <img src="https://img.shields.io/badge/-Laravel-E74430?style=flat&logo=laravel&logoColor=white" height="30px">
   <img src="https://img.shields.io/badge/-MySQL-00758F?style=flat&logo=mysql&logoColor=white" height="30px">
@@ -22,27 +22,26 @@
   <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" height="30px">
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" height="30px">
   <img src="https://img.shields.io/badge/-Asterisk-FF0000?style=flat&logo=asterisk&logoColor=white" height="30px">
+  <img src="https://img.shields.io/badge/-Stripe-008CDD?style=flat&logo=stripe&logoColor=white" height="30px">
+  <img src="https://img.shields.io/badge/-API-FF6F00?style=flat&logo=postman&logoColor=white" height="30px">
+  <img src="https://img.shields.io/badge/-Payment%20Service-00A86B?style=flat&logo=googlepay&logoColor=white" height="30px">
   <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" height="30px">
   <img src="https://img.shields.io/badge/-HTML5-E34C26?style=flat&logo=html5&logoColor=white" height="30px">
   <img src="https://img.shields.io/badge/-CSS3-264de4?style=flat&logo=css3&logoColor=white" height="30px">
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" height="30px">
 </p>
 
+
   <hr>
 
   <div align="center">
   <h2>📊 My Stats 📈</h2>
-  <p align="center">
-<!--     <img src="https://github-readme-stats.vercel.app/api?username=Ashishrock9394&rank_icon=github&theme=dark" alt="Souvik's GitHub stats"> -->    
-    <img src="https://github-readme-stats.vercel.app/api?username=Ashishrock9394&show_icons=true&theme=tokyonight&count_private=true" alt="Ashish's GitHub stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashishrock9394&layout=donut&theme=dark" alt="Top Languages" height="195px">
+  <p align="center">   
+    <img src="https://github-readme-stats.vercel.app/api?username=Ashishrock9394&rank_icon=github&theme=tokyonight&count_private=true" alt="📊Ashish's GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashishrock9394&layout=donut&theme=dark" alt="🧠Top Languages" height="195px">
   </p>
 </div>
- 
-  <h2>🔥 GitHub Contribution Graph</h2>
-  <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashishrock9394&theme=tokyo-night" alt="GitHub Contribution Graph" />
-  </p>
+
 
   <hr>
   <h2>🔗 Connect with Me</h2>
@@ -55,4 +54,13 @@
     <a href="mailto:ashishkumar9394@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" height="30px"></a>
   </p>
   <p>📫 Email me at <a href="mailto:ashishkumar9394@gmail.com">ashishkumar9394@gmail.com</a></p>
+
+<hr>
+ 
+  <h2>🔥 GitHub Contribution Graph</h2>
+  <p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashishrock9394&theme=tokyo-night" alt="GitHub Contribution Graph" />
+  </p>
 </div>
+
+
