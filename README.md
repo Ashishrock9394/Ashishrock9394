@@ -8,20 +8,26 @@
   <hr>
 
   <h2>🏢 Current Focus</h2>
-  <p>🚀 Expanding into Java Development while continuing to master Laravel.</p>
+  <p>🚀 Expanding into Full-Stack Development while continuing to master Laravel.</p>
 
   <hr>
   <h2>🛠️ Tech Stack</h2>
-  <p>
-    <img src="https://img.shields.io/badge/-PHP-8892BF?style=flat&logo=php&logoColor=white" height="30px">
-    <img src="https://img.shields.io/badge/-Laravel-E74430?style=flat&logo=laravel&logoColor=white" height="30px">
-    <img src="https://img.shields.io/badge/-MySQL-00758F?style=flat&logo=mysql&logoColor=white" height="30px">
-    <img src="https://img.shields.io/badge/-JavaScript-F0DB4F?style=flat&logo=javascript&logoColor=black" height="30px">
-    <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" height="30px">
-    <img src="https://img.shields.io/badge/-HTML5-E34C26?style=flat&logo=html5&logoColor=white" height="30px">
-    <img src="https://img.shields.io/badge/-CSS3-264de4?style=flat&logo=css3&logoColor=white" height="30px">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" height="30px">
-  </p>
+ <p>
+  <img src="https://img.shields.io/badge/-PHP-8892BF?style=flat&logo=php&logoColor=white" height="30px">
+  <img src="https://img.shields.io/badge/-Laravel-E74430?style=flat&logo=laravel&logoColor=white" height="30px">
+  <img src="https://img.shields.io/badge/-MySQL-00758F?style=flat&logo=mysql&logoColor=white" height="30px">
+  <img src="https://img.shields.io/badge/-JavaScript-F0DB4F?style=flat&logo=javascript&logoColor=black" height="30px">
+  <img src="https://img.shields.io/badge/-AJAX-00599C?style=flat&logo=jquery&logoColor=white" height="30px">
+  <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" height="30px">
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" height="30px">
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" height="30px">
+  <img src="https://img.shields.io/badge/-Asterisk-FF0000?style=flat&logo=asterisk&logoColor=white" height="30px">
+  <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" height="30px">
+  <img src="https://img.shields.io/badge/-HTML5-E34C26?style=flat&logo=html5&logoColor=white" height="30px">
+  <img src="https://img.shields.io/badge/-CSS3-264de4?style=flat&logo=css3&logoColor=white" height="30px">
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" height="30px">
+</p>
+
   <hr>
 
   <h2>📊 GitHub Stats</h2>
@@ -43,6 +49,9 @@
   <h2>🔗 Connect with Me</h2>
   <p>
     <a href="https://www.linkedin.com/in/ashishrock9394/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" height="30px"></a>
+    <a href="https://ashishrock9394.github.io/portfolio/">
+  <img src="https://img.shields.io/badge/-Portfolio-black?style=flat&logo=Google-Chrome&logoColor=white" height="30px">
+</a>
     <a href="https://github.com/Ashishrock9394"><img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white" height="30px"></a>
     <a href="mailto:ashishkumar9394@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" height="30px"></a>
   </p>
