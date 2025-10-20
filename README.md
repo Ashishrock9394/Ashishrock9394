@@ -19,7 +19,7 @@
 ### 🏢 Professional Experience
 
 #### 💼 **CT Solution** — *Laravel Developer*  
-📅 **Aug 2023 – Present**  
+📅 **Aug 2025 – Present**  
 - Contributed to **NEP Fitness** and **CISCE Fitness Program Portals**, supporting  
   **30,000+ schools**, **85,000+ trainers**, and **3M+ students**.  
 - Developed high-performance modules for **real-time scoring**, **student management**, and **analytics dashboards**.  
