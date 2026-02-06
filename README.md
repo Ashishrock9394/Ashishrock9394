@@ -77,9 +77,10 @@
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashishrock9394&theme=tokyonight&show_icons=true&count_private=true&rank_icon=github" height="170px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashishrock9394&layout=compact&theme=tokyonight" height="170px"/>
+  <img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ashishrock9394&theme=tokyonight&show_icons=true&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Ashishrock9394&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
 
 ---
 
