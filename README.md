@@ -8,10 +8,10 @@
 ---
 
 ## 👨‍💻 About Me
-💼 **Laravel Developer** with **3+ years of experience** building robust backend systems and dynamic web applications.  
-💡 Passionate about **clean code**, **SOLID principles**, and **scalable architectures**.  
-⚙️ Hands-on experience with **large-scale platforms** serving **millions of users**.  
-🌱 Currently enhancing skills in **Java** and **Full-Stack Development**.  
+💼 **Laravel Developer** with **3+ years of professional experience** building robust backend systems and dynamic web applications.  
+💡 Strong believer in **clean code**, **SOLID principles**, and **scalable architectures**.  
+⚙️ Hands-on experience working on **large-scale platforms** serving **millions of users**.  
+🌱 Currently sharpening skills in **Java** and **Full-Stack Development**.  
 🎯 Goal: Deliver efficient, maintainable solutions that create real-world impact.
 
 ---
@@ -33,7 +33,7 @@
 ### ☁️ Cloudshope Technology — *Laravel Developer & Intern*  
 📅 **Feb 2020 – Oct 2021**  
 - Built **Bulk Voice & Messaging Platforms** using **Asterisk API**.  
-- Designed **real-time dashboards** to track campaign performance.
+- Designed **real-time dashboards** to track campaign performance and delivery metrics.  
 
 ---
 
@@ -55,16 +55,16 @@
 ## 🚀 Featured Projects
 
 ### 🛒 E-Commerce Platform
-🔗 [GitHub Repo](https://github.com/Ashishrock9394/eComProject)  
+🔗 https://github.com/Ashishrock9394/eComProject  
 **Laravel | JavaScript | AJAX | MySQL | Stripe**
 - End-to-end e-commerce solution with **admin dashboard**, **inventory**, and **order management**.  
 - Integrated **Stripe payments**, **email queues**, and **secure checkout flow**.  
 
 ### 🚗 Car Rental System
-🔗 [Live Demo](http://rentley.lovestoblog.com/)  
+🔗 http://rentley.lovestoblog.com/  
 **HTML | CSS | JavaScript | PHP | MySQL**
 - Complete vehicle rental system with **booking**, **listing**, and **admin control**.  
-- Implemented **search, filters**, and **availability management**.  
+- Implemented **search, filters**, and availability management.  
 
 ---
 
@@ -75,21 +75,20 @@
 ---
 
 ## 📊 GitHub Statistics
-<p align="center">
-  <!-- These URLs use self-hosted reliable mirrors to avoid downtime -->
-  <img width="48%" src="https://gh-stats-ashishrock.vercel.app/api?username=Ashishrock9394&theme=dark&show_icons=true&hide_border=true" />
-  <img width="48%" src="https://gh-stats-ashishrock.vercel.app/api/top-langs/?username=Ashishrock9394&layout=compact&theme=dark&hide_border=true" />
-</p>
 
-### 🔥 GitHub Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Ashishrock9394&theme=dark&hide_border=true" />
-</p>
+### GitHub Stats
+![Ashish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashishrock9394&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117)
 
-### 📈 Contribution Graph
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Ashishrock9394&theme=react-dark&hide_border=true" />
-</p>
+### Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashishrock9394&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&langs_count=8)
+
+### GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com/?user=Ashishrock9394&theme=dark&hide_border=true&background=0D1117)
+
+---
+
+## 📈 Contribution Graph
+![Ashish's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashishrock9394&theme=github-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF)
 
 ---
 
