@@ -95,7 +95,7 @@
 
 ### 🔥 Contribution Graph
 <p align="center">
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=Ashishrock9394&theme=tokyo-night" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashishrock9394&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae" />
 </p>
 
 ---
